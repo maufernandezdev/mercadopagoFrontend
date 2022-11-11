@@ -47,4 +47,4 @@ const App = () =>
     btnPayment.addEventListener('submit', checkout);
 }
 
-export default App;
+App();
